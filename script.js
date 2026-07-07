@@ -1,1 +1,1 @@
-
+console.log('Blue Travel działa!');
